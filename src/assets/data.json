@@ -1,0 +1,25 @@
+{
+  "plant_data": [
+    {
+      "no": 1,
+      "machine": "M101",
+      "Operation": "CNC",
+      "parts": 100,
+      "time": 5.6
+    },
+    {
+      "no": 2,
+      "machine": "M102",
+      "Operation": "VMC",
+      "parts": 180,
+      "time": 8.5
+    },
+    {
+      "no": 3,
+      "machine": "M103",
+      "Operation": "Turning",
+      "parts": 345,
+      "time": 9.5
+    }
+  ]
+}
